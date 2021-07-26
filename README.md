@@ -1,4 +1,5 @@
-AI / 機械学習 画像認識 人物判定 ver 1.0<br><br>
+AI / 機械学習 画像認識 人物判定 ver 1.0<br>
+このreadmeはソースコード内上部と内容は一緒です。<br><br>
 
 【見方】<br>
 ※スマホから開いた場合は↑の<span style="color: blue;">View code</span>を押す必要があります。<br>
